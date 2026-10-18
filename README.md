@@ -1,2 +1,2 @@
 # hello-world
-opis_hello_world_student_tomek_pg
+opis_hello_world_student_tomek_pg_rok_2026_2027
